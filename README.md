@@ -72,7 +72,7 @@ Hi there! I'm **Ayush Raj**, a passionate full-stack developer with a deep inter
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/ayushraj0003/ayushraj0003/blob/output/github-snake-dark.svg" alt="GitHub Snake" width="900" />
+  <img src="https://raw.githubusercontent.com/ayushraj0003/ayushraj0003/output/github-snake-dark.svg" width="900" />
 </p>
 
 ---
@@ -91,7 +91,7 @@ Hi there! I'm **Ayush Raj**, a passionate full-stack developer with a deep inter
 ### 📊 Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ayushraj0003/count.svg" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayushraj0003.ayushraj0003" alt="Visitor Count" />
 </p>
 
 ---
