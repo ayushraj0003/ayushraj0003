@@ -72,7 +72,7 @@ Hi there! I'm **Ayush Raj**, a passionate full-stack developer with a deep inter
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/ayushraj003/ayushraj003/blob/output/github-snake-dark.svg" alt="Customized Snake Game" width="900" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" />
+  <img src="https://github.com/ayushraj0003/ayushraj0003/blob/output/github-snake-dark.svg" alt="Customized Snake Game" width="900" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" />
 </p>
 
 ---
